@@ -8,10 +8,10 @@
 
 ---
 
-### 🔭 Current Focus
+### 🔭 Present
 - Currently working as **Software Engineer** at **Tonbo Imaging**.
 - Building **Photorealistic 3D Avatars**, **3D Reconstruction**, **Dynamic Scene Modeling** and **Optimization-based Techniques for Neural Fields**.
-
+- 📄 Know about my experiences [website](https://pgarwadmath.github.io/prajwalgarwadmath.github.io/)
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +22,7 @@
     <a href="https://drive.google.com/file/d/1mGzQ75TOeKky78Z1a1MQ7cQZrYkExAl2/view?usp=drive_link" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/resume.png" alt="resume" height="30" width="40" />
   </a>
-    <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="40" />
-  </a>
+    
 </p>
 
 
