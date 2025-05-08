@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajwal Garwadmath</h1>
+<p align="center">
+  <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="_blank">My Website</a>
+</p>
+
 <h3 align="center">Computer Vision | Neural Rendering | Deployment</h3>
 
 <p align="center">
