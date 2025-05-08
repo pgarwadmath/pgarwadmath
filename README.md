@@ -3,7 +3,8 @@
   <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="_blank">My Website</a>
 </p>
 
-<h3 align="center">Computer Vision | Neural Rendering | Deployment</h3>
+<h3 align="center">Computer Vision | Neural Rendering | Deployment |   <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="_blank">My Website</a>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=440&lines=Computer+Vision+Researcher;3D+ComputerGraphics+and+Rendering;Software+Engineer+%F0%9F%8C%9F" alt="Typing SVG" />
