@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Garwadmath</h1>
-<p align="center">
-  <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="_blank">My Website</a>
-</p>
 
-<h3 align="center">Computer Vision | Neural Rendering | Deployment |   <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="_blank">My Website</a>
-</h3>
+<h3 align="center">Computer Vision | Neural Rendering | Deployment </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=440&lines=Computer+Vision+Researcher;3D+ComputerGraphics+and+Rendering;Software+Engineer+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -25,6 +21,9 @@
   </a>
     <a href="https://drive.google.com/file/d/1mGzQ75TOeKky78Z1a1MQ7cQZrYkExAl2/view?usp=drive_link" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/resume.png" alt="resume" height="30" width="40" />
+  </a>
+    <a href="https://pgarwadmath.github.io/prajwalgarwadmath.github.io/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="40" />
   </a>
 </p>
 
